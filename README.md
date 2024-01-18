@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @darshanrajappan
+- 👀 I’m interested in Software Automation Testing
+- 🌱 I’m currently learning Selenium WebDriver with Java
+- 📫 My LinkedIn and GitHub profile ...
+-   https://www.linkedin.com/in/darshanrajappan/
+-   https://github.com/darshanrajappan
